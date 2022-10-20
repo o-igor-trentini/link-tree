@@ -76,15 +76,15 @@ body {
     transition: background-color 0.2s;
 }
 
+.card-item button svg {
+    width: 24px;
+
+    fill: var(--white);
+}
+
 .card-item button a {
     font-size: 16px;
     font-family: sans-serif;
     font-weight: 600;
     color: var(--white);
-}
-
-.card-item button svg {
-    width: 24px;
-
-    fill: var(--white);
 }
